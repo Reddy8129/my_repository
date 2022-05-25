@@ -1,2 +1,2 @@
 # my_repository
-Courseera  html, css, javascript for web development
+This repository created for learnig git and github.
